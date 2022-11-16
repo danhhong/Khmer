@@ -398,11 +398,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = typoDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = typoLineGap;
@@ -410,7 +410,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2175;
 },
 {
 name = winDescent;
@@ -418,11 +418,11 @@ value = 1120;
 },
 {
 name = hheaAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = hheaDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = strikeoutPosition;
@@ -474,11 +474,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = typoDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = typoLineGap;
@@ -486,7 +486,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2175;
 },
 {
 name = winDescent;
@@ -494,11 +494,11 @@ value = 1120;
 },
 {
 name = hheaAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = hheaDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = strikeoutPosition;
@@ -550,11 +550,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = typoDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = typoLineGap;
@@ -562,7 +562,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2175;
 },
 {
 name = winDescent;
@@ -570,11 +570,11 @@ value = 1120;
 },
 {
 name = hheaAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = hheaDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = strikeoutPosition;
@@ -625,11 +625,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = typoDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = typoLineGap;
@@ -637,7 +637,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2175;
 },
 {
 name = winDescent;
@@ -645,11 +645,11 @@ value = 1120;
 },
 {
 name = hheaAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = hheaDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = strikeoutPosition;
@@ -701,11 +701,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = typoDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = typoLineGap;
@@ -713,7 +713,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2175;
 },
 {
 name = winDescent;
@@ -721,11 +721,11 @@ value = 1120;
 },
 {
 name = hheaAscender;
-value = 2150;
+value = 2300;
 },
 {
 name = hheaDescender;
-value = -1120;
+value = -1200;
 },
 {
 name = strikeoutPosition;
@@ -86028,58 +86028,32 @@ note = space;
 unicode = 32;
 },
 {
-glyphname = CR;
-lastChange = "2022-11-15 15:07:38 +0000";
+glyphname = nbspace;
+lastChange = "2022-11-16 08:55:19 +0000";
 layers = (
 {
 layerId = m01;
-width = 1044;
+width = 700;
 },
 {
 layerId = "5711A9A5-FB70-4E23-B0BA-A0F8E72F65B6";
-width = 1044;
+width = 700;
 },
 {
 layerId = "C589F45C-3E8C-4D57-BBA0-76FE1AFDA3B7";
-width = 1044;
+width = 700;
 },
 {
 layerId = "B9892E43-DBAA-41C3-9AC8-C95A43C93A60";
-width = 1044;
+width = 700;
 },
 {
 layerId = "14DC179B-5B87-47A1-B3E1-5CE1808186AA";
-width = 1044;
+width = 700;
 }
 );
-note = CR;
-},
-{
-glyphname = uni0000;
-lastChange = "2022-11-15 15:07:38 +0000";
-layers = (
-{
-layerId = m01;
-width = 0;
-},
-{
-layerId = "5711A9A5-FB70-4E23-B0BA-A0F8E72F65B6";
-width = 0;
-},
-{
-layerId = "C589F45C-3E8C-4D57-BBA0-76FE1AFDA3B7";
-width = 0;
-},
-{
-layerId = "B9892E43-DBAA-41C3-9AC8-C95A43C93A60";
-width = 0;
-},
-{
-layerId = "14DC179B-5B87-47A1-B3E1-5CE1808186AA";
-width = 0;
-}
-);
-note = uni0000;
+note = space;
+unicode = 160;
 },
 {
 glyphname = .notdef;
