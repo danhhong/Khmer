@@ -131020,6 +131020,6 @@ disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 };
 unitsPerEm = 2048;
-versionMajor = 8;
+versionMajor = 3;
 versionMinor = 0;
 }
