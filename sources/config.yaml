@@ -1,0 +1,9 @@
+sources:
+  - Khmer.glyphs
+outputDir: ../fonts
+familyName: Khmer
+buildTTF: true
+buildOTF: false
+buildWebfont: false
+buildStatic: true
+buildVariable: false
